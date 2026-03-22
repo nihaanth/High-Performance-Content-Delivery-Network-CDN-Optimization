@@ -2,7 +2,7 @@
 
 A production-ready Next.js application demonstrating global CDN performance optimization techniques. Built to achieve top Core Web Vitals scores with edge caching, optimized image delivery, and real user monitoring.
 
-**Live Demo:** [cdn-perf.vercel.app](https://cdn-perf.vercel.app)
+**Live Demo:** [cdn-pref.vercel.app](https://cdn-pref.vercel.app)
 
 ---
 
